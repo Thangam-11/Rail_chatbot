@@ -1,4 +1,3 @@
-
 # My Train Chatbot
 
 ## Introduction
@@ -12,8 +11,8 @@ Many people in India rely on trains for travel. Finding train schedules and deta
 ## Solution Overview
 
 1. **LangChain** - Framework for developing applications using Large Language Models (LLM).
-2. **openAI** - Text-based large language model.
-3. **speech_recognition ** - Voice-to-Text conversion model.
+2. **OpenAI** - Text-based large language model.
+3. **speech_recognition** - Voice-to-Text conversion model.
 4. **MySQL** - Relational Database.
 
 ## Technologies Used
@@ -21,13 +20,13 @@ Many people in India rely on trains for travel. Finding train schedules and deta
 - Python
 - LangChain
 - OpenAI
--  speech_recognition 
+- speech_recognition
 - Streamlit
 
 ## Tools / Frameworks Used
 
 - **LangChain**: For developing applications with LLM.
-- **openAI**: Provides text-based LLM capabilities.
+- **OpenAI**: Provides text-based LLM capabilities.
 - **speech_recognition**: Converts voice commands into text.
 - **Streamlit**: Creates the web application interface.
 
@@ -44,7 +43,6 @@ The chatbot functionality is compiled into a Streamlit web application. Users ca
   2. Tell me the travel duration from Thane to Ratanagiri.
   3. What is the distance between Udupi and Mangalore?
 
-
 ## Limitations
 
 1. Users can interact with the chatbot only in English.
@@ -60,7 +58,7 @@ The chatbot functionality is compiled into a Streamlit web application. Users ca
 
 ## Conclusion
 
-"My Train Chatbot" offers a promising solution for simplifying Indian railway inquiries. By leveraging LangChain and OpenAi LLM, the chatbot provides a basic but effective conversational interface for accessing train schedules and details. With further development, it has the potential to become a valuable tool for travelers across India, enhancing their overall travel experience.
+"My Train Chatbot" offers a promising solution for simplifying Indian railway inquiries. By leveraging LangChain and OpenAI's LLM, the chatbot provides a basic but effective conversational interface for accessing train schedules and details. With further development, it has the potential to become a valuable tool for travelers across India, enhancing their overall travel experience.
 
 ## Contact
 
