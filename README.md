@@ -1,4 +1,4 @@
-# Rail_chatbots
+
 # My Train Chatbot
 
 ## Introduction
@@ -12,18 +12,16 @@ Many people in India rely on trains for travel. Finding train schedules and deta
 ## Solution Overview
 
 1. **LangChain** - Framework for developing applications using Large Language Models (LLM).
-2. **Gemini Pro** - Text-based large language model.
-3. **OpenAI Whisper** - Voice-to-Text conversion model.
+2. **openAI** - Text-based large language model.
+3. **speech_recognition ** - Voice-to-Text conversion model.
 4. **MySQL** - Relational Database.
 
 ## Technologies Used
 
 - Python
-- Pandas
 - LangChain
-- Gemini Pro
-- OpenAI Whisper
-- MySQL
+- OpenAI
+-  speech_recognition 
 - Streamlit
 
 ## Tools / Frameworks Used
